@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fpyparsing.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fpyparsing?ref=badge_shield)
+
 PyParsing -- A Python Parsing Module
 ====================================
 
@@ -74,3 +76,6 @@ See CHANGES file.
    :target: https://travis-ci.org/pyparsing/pyparsing
 .. |Coverage| image:: https://codecov.io/gh/pyparsing/pyparsing/branch/master/graph/badge.svg
   :target: https://codecov.io/gh/pyparsing/pyparsing
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fpyparsing.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fpyparsing?ref=badge_large)
